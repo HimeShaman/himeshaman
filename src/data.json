@@ -7,7 +7,7 @@
     "colors": {
         "basicColor": "#333333",
         "lightColor": "#acacac",
-        "accentColor": "#3373c3"
+        "accentColor": "#F8990C"
     },
     "dashboard": {
         "firstTitle": {
@@ -116,11 +116,11 @@
             },
             "lists": [
                 {
-                    "fr": "Dossier départemental des risques majeurs (DDRM), établi par le préfet décrit l’ensemble des risques majeurs auxquels chacune des communes des Bouches-du Rhône est exposée.",
+                    "fr": "La ville de Saint-Priest a dapté ses documents d’urbanismes au PPI (Plan Particulier d’Intervention) mis en place par la préfecture. L’objectif étant d’informer les habitants des potentiels risques présentés par l’usine ainsi que les mesures prises pour minimiser l’impact de ces risques en cas d’accident.",
                     "en": "Departmental file of major risks (DDRM), drawn up by the prefect describes all the major risks to which each of the communes of the Bouches-du-Rhône is exposed."
                 },
                 {
-                    "fr": "Cartes et études traitant des risques majeurs annexées au document d’urbanisme.",
+                    "fr": "Guide sur les risques de Saint-Priest disponible sur le site de la ville",
                     "en": "Maps and studies dealing with major risks annexed to the urban planning document."
                 },
                 {
@@ -191,8 +191,8 @@
         ],
         "secondTitle": {
             "mainTitle": {
-                "fr": "Alerte inondation !",
-                "en": "Flood alert!"
+                "fr": "Alerte risques industriels !",
+                "en": "Industrial risk alert!"
             },
             "lightTitle": {
                 "fr": "Historique :",
@@ -203,12 +203,12 @@
             {
                 "date": {
                     "hour": "20h30",
-                    "day": "09",
+                    "day": "07",
                     "month": "10"
                 },
                 "text": {
-                    "fr": "Les petites annonces sont généralement le premier endroit auquel vous pensez lorsque vous vous préparez à faire un achat. Que vous souhaitiez acheter un véhicule, un lit ou un animal domestique",
-                    "en": "Classifieds are usually the first place you think of when you are getting ready to make a purchase. Whether you want to purchase a vehicle, bed, or pet"
+                    "fr": "Les jours suivants l’incendie, certains enfants ne se sont pas sentis bien, comme le fils d’Hugues : « Un soir, il était fiévreux, il n’a pas mangé et avait mal à la tête. Il a fini aux urgences », témoigne ce père en colère. « Mes fils se sont plaints d’avoir la gorge et le nez qui les piquaient », indique de son côté Laetitia. « Mon fils avait une vilaine toux », explique aussi Sabrina.",
+                    "en": "In the days following the fire, some children did not feel well, such as Hughes' son: One night he had a fever, he didn't eat and had a headache. He ended up in the emergency room, says this angry father. My sons complained that their throat and nose were stinging, says Laetitia. My son had a bad cough,. Sabrina explains."
                 },
                 "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0",
                 "image": {
@@ -218,13 +218,13 @@
             },
             {
                 "date": {
-                    "hour": "20h30",
-                    "day": "09",
+                    "hour": "8h30",
+                    "day": "06",
                     "month": "10"
                 },
                 "text": {
-                    "fr": "Les petites annonces sont généralement le premier endroit auquel vous pensez lorsque vous vous préparez à faire un achat. Que vous souhaitiez acheter un véhicule, un lit ou un animal domestique",
-                    "en": "Classifieds are usually the first place you think of when you are getting ready to make a purchase. Whether you want to purchase a vehicle, bed, or pet"
+                    "fr": "Une importante explosion s’est déclaré dans la nuit du mercredi 9 au jeudi 10, dans une industrie CREALIS classée SEVESO seuil haut de Saint-Priest ( Auvergne -Rhône Alpes) qui a provoqué de gros dégâts dans l’usine et un important panache de fumée. Ces dégâts sont d’autant plus importants puisque cette usine produisait des produits chimiques et ces produits en question se sont répandue dans l’air.",
+                    "en": "In the days following the fire, some children did not feel well, such as Hughes' son: One night he had a fever, he didn't eat and had a headache. He ended up in the emergency room, says this angry father. My sons complained that their throat and nose were stinging, says Laetitia. My son had a bad cough, Sabrina explains."
                 },
                 "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
             }
